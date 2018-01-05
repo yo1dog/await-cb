@@ -1,0 +1,27 @@
+{
+  "name": "await-cb",
+  "version": "1.0.0",
+  "description": "An unintrusive, modern, and extremely simple callback-to-promise wrapper that makes no assumptions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yo1dog/await-cb.git"
+  },
+  "keywords": [
+    "promisify",
+    "cb",
+    "callback",
+    "promise",
+    "async",
+    "await"
+  ],
+  "author": "Mike Moore (yo1dog)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yo1dog/await-cb/issues"
+  },
+  "homepage": "https://github.com/yo1dog/await-cb#readme"
+}
